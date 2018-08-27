@@ -37,11 +37,11 @@ This app can be deployed on any python supported engine, AWS, IBM, Heroku etc.
 * JS
 * Python
 ## Input Image
-![img1](https://github.com/NischayChauhan/OCR/blob/master/sample.jpg){:height="400px" width="400px"}
+![img1](https://github.com/NischayChauhan/OCR/blob/master/sample.jpg)
 ## Intermeadiate Image
-![img2](https://github.com/NischayChauhan/OCR/blob/master/refined_receipt.jpg){:height="400px" width="400px"}
+![img2](https://github.com/NischayChauhan/OCR/blob/master/refined_receipt.jpg)
 ## Output Image
-![img2](https://github.com/NischayChauhan/OCR/blob/master/Screenshot%20from%202018-07-25%2000-51-48.png){:height="400px" width="400px"}
+![img2](https://github.com/NischayChauhan/OCR/blob/master/Screenshot%20from%202018-07-25%2000-51-48.png)
 ## Authors
 
 * **Nischay Chauhan** - [linkedin](https://www.linkedin.com/in/nischaychauhan/)
